@@ -1,0 +1,173 @@
+body{
+    
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+section{
+    height: 500px;
+}
+.linkbutton{
+    text-decoration: none;
+    background-color: rgb(253, 66, 222);
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 400px;
+    
+}
+.half-width{
+
+    width: 40%;
+    float: left;
+    padding-right: 0;
+    margin-top: 50px;
+    margin-left: 5%;
+    
+    
+    
+    
+
+}
+.intropic{
+      width: 90%;
+      
+}
+.section1{
+         background-image: url(personal-website/header-bg.png);
+         background-repeat: no-repeat;
+         background-position: right;
+         background-size: 100%;
+
+}
+    
+   
+
+p{
+    color: rgb(73, 68, 68);
+    font-size: 12px;
+    
+}
+h1{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+span{
+    color:rgb(241, 60, 217) ;
+}
+.single-exp{
+    margin-left: 7%;
+    padding-left: 70px;
+    padding-top: 70px;
+    padding-right: 0%;
+}
+.double-exp{
+    margin-left: 0%;
+    padding-left: 0%;
+    
+}
+h2{
+    font-weight: 400px;
+    margin-bottom: 0%;
+   
+   
+    
+}
+   
+.heading1{
+    font-size: 25px;
+    font-weight: 400;
+}
+.dreampic{
+    width: 80%;
+    margin-left: 7%;
+   
+}
+.section2{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.third-exp{
+    margin-left: 80px;
+    margin-top: 90px;
+}
+.heading2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    
+}
+.latestwork1{
+     width: 100%;
+}
+.latestwork2{
+    width: 100%;
+
+}
+.latestwork3{
+    width: 100%;
+}
+.divsize-red{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 40px;
+    padding-left: 10px;
+
+}
+.section3{
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 0%;
+   
+    
+    
+}
+.section4{
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+
+}
+h4{
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 10%;
+    
+    
+    }
+h6{
+    text-align: center;
+    font-size: 8px;
+    margin-top: 0%;
+}
+#middlepara{
+    text-align: center;
+}
+.footerdiv{  width: 25%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 40px;
+    padding-left: 10px;
+    position:absolute;
+    left: 338px;
+
+}
+.linkbutton2{
+    text-decoration: none;
+    background-color: rgb(253, 66, 222);
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 400px;
+    position: absolute;
+    left: 82px;
+
+}
+footer{text-align: center;}
